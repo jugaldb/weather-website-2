@@ -1,0 +1,59 @@
+
+
+
+.workHard {
+    height: 250px;
+    width: 400x ;
+}
+
+header a{
+    text-decoration: none;
+    font-size: 15px;    
+    margin-right: 16px;
+    columns: #888888;
+    
+} 
+
+
+
+body{
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh ;
+}
+
+footer{
+    color: rgb(15, 25, 26);
+    border-top: 1px solid whitesmoke;
+    margin-top:16px ;
+    padding: 16px 0;
+    text-align:center;
+
+}
+header{
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+h1{
+    font-size: 64px;
+    margin-bottom: 48px;
+}
+
+.main-content{
+    flex-grow: 1;
+}
+
+input{
+    border: 1px solid #cccccc;
+    padding: 8px;
+}
+button{
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 8px;
+}
